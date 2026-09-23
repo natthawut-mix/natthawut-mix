@@ -11,3 +11,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.github.com/natthawut-mix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 <img src = "https://miro.medium.com/0*E43tumM4EjfYQ_fA." width="100" height="100" /> 
+<img src = "https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="100" height="100" /> 
